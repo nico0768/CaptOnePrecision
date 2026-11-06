@@ -1,0 +1,1 @@
+Déposer ici le CV sous le nom cv-yao-nicodeme.pdf, puis passer site.cv.disponible à true dans src/content/site.ts.

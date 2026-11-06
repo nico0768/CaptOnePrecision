@@ -1,0 +1,1 @@
+Déposer ici les images « graphisme ». Puis renseigner leur chemin (ex. /images/graphisme/mon-image.jpg) dans src/content/.

@@ -1,0 +1,1 @@
+Déposer ici les images « profil ». Puis renseigner leur chemin (ex. /images/profil/mon-image.jpg) dans src/content/.
